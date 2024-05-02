@@ -1,0 +1,337 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\C#\\OJT\\Exam\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{057E4351-BD94-4D66-B7D0-DDD29B268BCA}|Exam\\Exam.csproj|e:\\c#\\ojt\\exam\\exam\\application\\services\\orderservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{057E4351-BD94-4D66-B7D0-DDD29B268BCA}|Exam\\Exam.csproj|solutionrelative:exam\\application\\services\\orderservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{057E4351-BD94-4D66-B7D0-DDD29B268BCA}|Exam\\Exam.csproj|e:\\c#\\ojt\\exam\\exam\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{057E4351-BD94-4D66-B7D0-DDD29B268BCA}|Exam\\Exam.csproj|solutionrelative:exam\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{057E4351-BD94-4D66-B7D0-DDD29B268BCA}|Exam\\Exam.csproj|e:\\c#\\ojt\\exam\\exam\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{057E4351-BD94-4D66-B7D0-DDD29B268BCA}|Exam\\Exam.csproj|solutionrelative:exam\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{057E4351-BD94-4D66-B7D0-DDD29B268BCA}|Exam\\Exam.csproj|e:\\c#\\ojt\\exam\\exam\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{057E4351-BD94-4D66-B7D0-DDD29B268BCA}|Exam\\Exam.csproj|solutionrelative:exam\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{057E4351-BD94-4D66-B7D0-DDD29B268BCA}|Exam\\Exam.csproj|e:\\c#\\ojt\\exam\\exam\\migrations\\orderdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{057E4351-BD94-4D66-B7D0-DDD29B268BCA}|Exam\\Exam.csproj|solutionrelative:exam\\migrations\\orderdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{057E4351-BD94-4D66-B7D0-DDD29B268BCA}|Exam\\Exam.csproj|e:\\c#\\ojt\\exam\\exam\\repositories\\orderrepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{057E4351-BD94-4D66-B7D0-DDD29B268BCA}|Exam\\Exam.csproj|solutionrelative:exam\\repositories\\orderrepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{057E4351-BD94-4D66-B7D0-DDD29B268BCA}|Exam\\Exam.csproj|e:\\c#\\ojt\\exam\\exam\\application\\repositories\\iorderrepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{057E4351-BD94-4D66-B7D0-DDD29B268BCA}|Exam\\Exam.csproj|solutionrelative:exam\\application\\repositories\\iorderrepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{057E4351-BD94-4D66-B7D0-DDD29B268BCA}|Exam\\Exam.csproj|e:\\c#\\ojt\\exam\\exam\\application\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{057E4351-BD94-4D66-B7D0-DDD29B268BCA}|Exam\\Exam.csproj|solutionrelative:exam\\application\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{057E4351-BD94-4D66-B7D0-DDD29B268BCA}|Exam\\Exam.csproj|e:\\c#\\ojt\\exam\\exam\\application\\dtos\\upsertorderresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{057E4351-BD94-4D66-B7D0-DDD29B268BCA}|Exam\\Exam.csproj|solutionrelative:exam\\application\\dtos\\upsertorderresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{057E4351-BD94-4D66-B7D0-DDD29B268BCA}|Exam\\Exam.csproj|e:\\c#\\ojt\\exam\\exam\\setting\\appsetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{057E4351-BD94-4D66-B7D0-DDD29B268BCA}|Exam\\Exam.csproj|solutionrelative:exam\\setting\\appsetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{057E4351-BD94-4D66-B7D0-DDD29B268BCA}|Exam\\Exam.csproj|e:\\c#\\ojt\\exam\\exam\\application\\database\\orderentityconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{057E4351-BD94-4D66-B7D0-DDD29B268BCA}|Exam\\Exam.csproj|solutionrelative:exam\\application\\database\\orderentityconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{057E4351-BD94-4D66-B7D0-DDD29B268BCA}|Exam\\Exam.csproj|e:\\c#\\ojt\\exam\\exam\\application\\database\\orderdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{057E4351-BD94-4D66-B7D0-DDD29B268BCA}|Exam\\Exam.csproj|solutionrelative:exam\\application\\database\\orderdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{057E4351-BD94-4D66-B7D0-DDD29B268BCA}|Exam\\Exam.csproj|e:\\c#\\ojt\\exam\\exam\\application\\common\\constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{057E4351-BD94-4D66-B7D0-DDD29B268BCA}|Exam\\Exam.csproj|solutionrelative:exam\\application\\common\\constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{057E4351-BD94-4D66-B7D0-DDD29B268BCA}|Exam\\Exam.csproj|e:\\c#\\ojt\\exam\\exam\\application\\dtos\\checkproductamount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{057E4351-BD94-4D66-B7D0-DDD29B268BCA}|Exam\\Exam.csproj|solutionrelative:exam\\application\\dtos\\checkproductamount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{057E4351-BD94-4D66-B7D0-DDD29B268BCA}|Exam\\Exam.csproj|e:\\c#\\ojt\\exam\\exam\\application\\dtos\\upsertorderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{057E4351-BD94-4D66-B7D0-DDD29B268BCA}|Exam\\Exam.csproj|solutionrelative:exam\\application\\dtos\\upsertorderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{057E4351-BD94-4D66-B7D0-DDD29B268BCA}|Exam\\Exam.csproj|e:\\c#\\ojt\\exam\\exam\\application\\dtos\\orderstatusmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{057E4351-BD94-4D66-B7D0-DDD29B268BCA}|Exam\\Exam.csproj|solutionrelative:exam\\application\\dtos\\orderstatusmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{057E4351-BD94-4D66-B7D0-DDD29B268BCA}|Exam\\Exam.csproj|e:\\c#\\ojt\\exam\\exam\\application\\dtos\\releaseholdamount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{057E4351-BD94-4D66-B7D0-DDD29B268BCA}|Exam\\Exam.csproj|solutionrelative:exam\\application\\dtos\\releaseholdamount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{057E4351-BD94-4D66-B7D0-DDD29B268BCA}|Exam\\Exam.csproj|e:\\c#\\ojt\\exam\\exam\\application\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{057E4351-BD94-4D66-B7D0-DDD29B268BCA}|Exam\\Exam.csproj|solutionrelative:exam\\application\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\C#\\OJT\\Exam\\Exam\\Program.cs",
+              "RelativeDocumentMoniker": "Exam\\Program.cs",
+              "ToolTip": "E:\\C#\\OJT\\Exam\\Exam\\Program.cs",
+              "RelativeToolTip": "Exam\\Program.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T03:51:29.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrderServices.cs",
+              "DocumentMoniker": "E:\\C#\\OJT\\Exam\\Exam\\Application\\Services\\OrderServices.cs",
+              "RelativeDocumentMoniker": "Exam\\Application\\Services\\OrderServices.cs",
+              "ToolTip": "E:\\C#\\OJT\\Exam\\Exam\\Application\\Services\\OrderServices.cs",
+              "RelativeToolTip": "Exam\\Application\\Services\\OrderServices.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAjwDMAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T02:59:53.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IOrderRepositories.cs",
+              "DocumentMoniker": "E:\\C#\\OJT\\Exam\\Exam\\Application\\Repositories\\IOrderRepositories.cs",
+              "RelativeDocumentMoniker": "Exam\\Application\\Repositories\\IOrderRepositories.cs",
+              "ToolTip": "E:\\C#\\OJT\\Exam\\Exam\\Application\\Repositories\\IOrderRepositories.cs",
+              "RelativeToolTip": "Exam\\Application\\Repositories\\IOrderRepositories.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T07:57:27.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrderRepositories.cs",
+              "DocumentMoniker": "E:\\C#\\OJT\\Exam\\Exam\\Repositories\\OrderRepositories.cs",
+              "RelativeDocumentMoniker": "Exam\\Repositories\\OrderRepositories.cs",
+              "ToolTip": "E:\\C#\\OJT\\Exam\\Exam\\Repositories\\OrderRepositories.cs",
+              "RelativeToolTip": "Exam\\Repositories\\OrderRepositories.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAkwB0AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T02:41:53.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrderDbContextModelSnapshot.cs",
+              "DocumentMoniker": "E:\\C#\\OJT\\Exam\\Exam\\Migrations\\OrderDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Exam\\Migrations\\OrderDbContextModelSnapshot.cs",
+              "ToolTip": "E:\\C#\\OJT\\Exam\\Exam\\Migrations\\OrderDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Exam\\Migrations\\OrderDbContextModelSnapshot.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwCsAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T08:19:33.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "E:\\C#\\OJT\\Exam\\Exam\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "Exam\\Controllers\\OrderController.cs",
+              "ToolTip": "E:\\C#\\OJT\\Exam\\Exam\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "Exam\\Controllers\\OrderController.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAewCUAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T03:58:27.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\C#\\OJT\\Exam\\Exam\\appsettings.json",
+              "RelativeDocumentMoniker": "Exam\\appsettings.json",
+              "ToolTip": "E:\\C#\\OJT\\Exam\\Exam\\appsettings.json",
+              "RelativeToolTip": "Exam\\appsettings.json",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB0AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-02T03:21:37.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UpsertOrderResponseDTO.cs",
+              "DocumentMoniker": "E:\\C#\\OJT\\Exam\\Exam\\Application\\DTOs\\UpsertOrderResponseDTO.cs",
+              "RelativeDocumentMoniker": "Exam\\Application\\DTOs\\UpsertOrderResponseDTO.cs",
+              "ToolTip": "E:\\C#\\OJT\\Exam\\Exam\\Application\\DTOs\\UpsertOrderResponseDTO.cs",
+              "RelativeToolTip": "Exam\\Application\\DTOs\\UpsertOrderResponseDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T03:17:36.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AppSetting.cs",
+              "DocumentMoniker": "E:\\C#\\OJT\\Exam\\Exam\\Setting\\AppSetting.cs",
+              "RelativeDocumentMoniker": "Exam\\Setting\\AppSetting.cs",
+              "ToolTip": "E:\\C#\\OJT\\Exam\\Exam\\Setting\\AppSetting.cs",
+              "RelativeToolTip": "Exam\\Setting\\AppSetting.cs",
+              "ViewState": "AQIAAFIAAAAAAAAAAAAQwAIAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T06:27:17.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Order.cs",
+              "DocumentMoniker": "E:\\C#\\OJT\\Exam\\Exam\\Application\\Entities\\Order.cs",
+              "RelativeDocumentMoniker": "Exam\\Application\\Entities\\Order.cs",
+              "ToolTip": "E:\\C#\\OJT\\Exam\\Exam\\Application\\Entities\\Order.cs",
+              "RelativeToolTip": "Exam\\Application\\Entities\\Order.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAYwAoAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T07:38:07.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UpsertOrderDTO.cs",
+              "DocumentMoniker": "E:\\C#\\OJT\\Exam\\Exam\\Application\\DTOs\\UpsertOrderDTO.cs",
+              "RelativeDocumentMoniker": "Exam\\Application\\DTOs\\UpsertOrderDTO.cs",
+              "ToolTip": "E:\\C#\\OJT\\Exam\\Exam\\Application\\DTOs\\UpsertOrderDTO.cs",
+              "RelativeToolTip": "Exam\\Application\\DTOs\\UpsertOrderDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T03:09:49.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "OrderDbContext.cs",
+              "DocumentMoniker": "E:\\C#\\OJT\\Exam\\Exam\\Application\\Database\\OrderDbContext.cs",
+              "RelativeDocumentMoniker": "Exam\\Application\\Database\\OrderDbContext.cs",
+              "ToolTip": "E:\\C#\\OJT\\Exam\\Exam\\Application\\Database\\OrderDbContext.cs",
+              "RelativeToolTip": "Exam\\Application\\Database\\OrderDbContext.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T02:45:45.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "OrderEntityConfiguration.cs",
+              "DocumentMoniker": "E:\\C#\\OJT\\Exam\\Exam\\Application\\Database\\OrderEntityConfiguration.cs",
+              "RelativeDocumentMoniker": "Exam\\Application\\Database\\OrderEntityConfiguration.cs",
+              "ToolTip": "E:\\C#\\OJT\\Exam\\Exam\\Application\\Database\\OrderEntityConfiguration.cs",
+              "RelativeToolTip": "Exam\\Application\\Database\\OrderEntityConfiguration.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwBEAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T08:17:47.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Constants.cs",
+              "DocumentMoniker": "E:\\C#\\OJT\\Exam\\Exam\\Application\\Common\\Constants.cs",
+              "RelativeDocumentMoniker": "Exam\\Application\\Common\\Constants.cs",
+              "ToolTip": "E:\\C#\\OJT\\Exam\\Exam\\Application\\Common\\Constants.cs",
+              "RelativeToolTip": "Exam\\Application\\Common\\Constants.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T08:18:09.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CheckProductAmount.cs",
+              "DocumentMoniker": "E:\\C#\\OJT\\Exam\\Exam\\Application\\DTOs\\CheckProductAmount.cs",
+              "RelativeDocumentMoniker": "Exam\\Application\\DTOs\\CheckProductAmount.cs",
+              "ToolTip": "E:\\C#\\OJT\\Exam\\Exam\\Application\\DTOs\\CheckProductAmount.cs",
+              "RelativeToolTip": "Exam\\Application\\DTOs\\CheckProductAmount.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T03:26:27.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ReleaseHoldAmount.cs",
+              "DocumentMoniker": "E:\\C#\\OJT\\Exam\\Exam\\Application\\DTOs\\ReleaseHoldAmount.cs",
+              "RelativeDocumentMoniker": "Exam\\Application\\DTOs\\ReleaseHoldAmount.cs",
+              "ToolTip": "E:\\C#\\OJT\\Exam\\Exam\\Application\\DTOs\\ReleaseHoldAmount.cs",
+              "RelativeToolTip": "Exam\\Application\\DTOs\\ReleaseHoldAmount.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T06:36:08.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "OrderStatusMessage.cs",
+              "DocumentMoniker": "E:\\C#\\OJT\\Exam\\Exam\\Application\\DTOs\\OrderStatusMessage.cs",
+              "RelativeDocumentMoniker": "Exam\\Application\\DTOs\\OrderStatusMessage.cs",
+              "ToolTip": "E:\\C#\\OJT\\Exam\\Exam\\Application\\DTOs\\OrderStatusMessage.cs",
+              "RelativeToolTip": "Exam\\Application\\DTOs\\OrderStatusMessage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T06:48:48.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ProductDTO.cs",
+              "DocumentMoniker": "E:\\C#\\OJT\\Exam\\Exam\\Application\\DTOs\\ProductDTO.cs",
+              "RelativeDocumentMoniker": "Exam\\Application\\DTOs\\ProductDTO.cs",
+              "ToolTip": "E:\\C#\\OJT\\Exam\\Exam\\Application\\DTOs\\ProductDTO.cs",
+              "RelativeToolTip": "Exam\\Application\\DTOs\\ProductDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T03:19:09.898Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
